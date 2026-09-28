@@ -10,7 +10,7 @@ I am a versatile developer with extensive IT experience, ranging from creating *
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -33,7 +33,7 @@ I am a versatile developer with extensive IT experience, ranging from creating *
 
 ---
 
-### 🚀 Core Competencies
+### Core Competencies
 
 | Area | Technologies / Skills |
 | :--- | :--- |
@@ -43,7 +43,3 @@ I am a versatile developer with extensive IT experience, ranging from creating *
 | **Other Areas** | Information Technology (General & Advanced IT), Graphic Design |
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheushenrikgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
